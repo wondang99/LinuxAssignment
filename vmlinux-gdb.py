@@ -1,0 +1,1 @@
+/home/won/linux-5.4.214/scripts/gdb/vmlinux-gdb.py
